@@ -1,0 +1,22 @@
+{
+
+    "name": "dragon-ball-legends-crystals-generator/dragon-ball-legends-crystals-hack",
+    "version": "1.0.0",
+    "description": "Dragon Ball Legends hack, Dragon Ball Legends, Dragon Ball Legends mod apk, Dragon Ball Legends hack android, Dragon Ball Legends ios hack, Dragon Ball Legends cheats, Dragon Ball Legends glitch, Dragon Ball Legends hack ios, Dragon Ball Legends android hack, Dragon Ball Legends mod, Dragon Ball Legends free Coins, Dragon Ball Legends unlimited Coins, Dragon Ball Legends Coins, free Dragon Ball Legends loot, herohunters cheat, herohunters hack, Dragon Ball Legends Soccer Coins, loot hack, Dragon Ball Legends hack no root, android cheats, ios cheats, cheatsdev, android hacks, ios hacks, cheat for Dragon Ball Legends, Dragon Ball Legends cheat, Dragon Ball Legends unlimited bux, Dragon Ball Legends hack 2018, Dragon Ball Legends hack Coins ios, Dragon Ball Legends hack bux ios, Dragon Ball Legends hack Coins android, Dragon Ball Legends hack bux android, Dragon Ball Legends free bux, Dragon Ball Legends hack Coins, Dragon Ball Legends hack bux, hero hunter hack, Dragon Ball Legends ios cheat, Dragon Ball Legends ",
+    "keywords": [
+ 
+    ],
+
+"authors": [
+	  {
+            "name": "John",
+            "email": "mysssk@gmail.com",
+			"homepage": ""
+        }
+    ],
+    "license": "ISC",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package2": "1.*"
+    }
+}
